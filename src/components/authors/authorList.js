@@ -31,8 +31,5 @@ var AuthorsList = React.createClass({
     }
 });
 
-<<<<<<< HEAD
 module.exports = AuthorsList;
-=======
-module.exports = AuthorsList;
->>>>>>> fbb901413c392cfe82a2735ecfcf79ef8d542a4a
+
